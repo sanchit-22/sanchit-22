@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sanchit Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on [Grab_Your_Meal](https://github.com/sanchit-22/Grab_Your_Meal)
 
