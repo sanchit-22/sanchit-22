@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Federated Systems and Disease Prediction with Machine Learning and Artificial Intelligence**.
 
-- 🌱 I’m currently learning **Django, ReactJS, and Federated Machine Learning**.
+- 🌱 I’m currently learning **NLP, Computer Vision and Federated Machine Learning**.
 
 - 🏹 My expertise includes **Machine Learning, Artificial Intelligence, and Natural Language Processing**.
 
