@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanchit Kumar</h1>
 
-<h3 align="center">AI/ML Engineer | Systems Builder | NLP & Computer Vision Enthusiast</h3>
+<h3 align="center">AI/ML Engineer | Systems Builder | NLP & Computer Vision</h3>
 
 ---
 
@@ -57,38 +57,121 @@ Passionate developer, wanderer, and someone who enjoys building ambitious system
 
 <h3 align="left">🛠 Tech Stack</h3>
 
+<h4>Languages</h4>
+
+<p align="left">
+<a href="https://www.cprogramming.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://isocpp.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.php.net/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
+</a>
+</p>
+
+<h4>Machine Learning & AI</h4>
+
 <p align="left">
 
-<b>Languages</b><br>
+<a href="https://www.tensorflow.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+</a>
 
-C • C++ • Python • JavaScript • SQL • PHP
+<a href="https://scikit-learn.org/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+</a>
 
-<br><br>
-
-<b>Machine Learning & AI</b><br>
-
-TensorFlow • Scikit-Learn • NLP • Computer Vision • Federated Learning
-
-<br><br>
-
-<b>Backend & Systems</b><br>
-
-Django • MongoDB • MySQL • System Design • Socket Programming • Distributed Systems
-
-<br><br>
-
-<b>Frontend</b><br>
-
-HTML • CSS • Bootstrap • React
-
-<br><br>
-
-<b>Tools & Platforms</b><br>
-
-Git • Linux • Docker • Google Colab • Kaggle
+<a href="https://pytorch.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+</a>
 
 </p>
 
+<h4>Backend & Systems</h4>
+
+<p align="left">
+
+<a href="https://www.djangoproject.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+</a>
+
+</p>
+
+<h4>Frontend</h4>
+
+<p align="left">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://getbootstrap.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://react.dev/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+</a>
+
+</p>
+
+<h4>Tools & Platforms</h4>
+
+<p align="left">
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://colab.research.google.com/" target="_blank">
+<img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40" height="40"/>
+</a>
+
+<a href="https://www.kaggle.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" width="40" height="40"/>
+</a>
+
+</p>
 ---
 
 <h3 align="left">📈 GitHub Stats</h3>
